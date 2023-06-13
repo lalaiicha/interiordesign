@@ -124,7 +124,7 @@ font-size: 150%; margin-bottom: 150px;
 }
 .footer{
     background-color: black; color: #f1f1f1; text-align: center; font-size: 90%; font-family:'Ténor Sans', sans empattement ; 
-    margin-top: 80px;display: flex; height: 80px;
+    margin-top: 80px;display: flex; height: 100px;
     align-items: center; /* Ajouter cette ligne pour centrer les divs */
    
     justify-content: space-between; margin-top: 0px;
@@ -148,6 +148,6 @@ font-size: 150%; margin-bottom: 150px;
     padding-left: 20px; margin-right: 200px;
 }
 .centre{
-    text-align: center; background-color: black; color: #f1f1f1;margin-top: 0px; padding-top: 20px; font-weight:80px;height:80px;
+    text-align: center; background-color: black; color: #f1f1f1;margin-top: 0px; padding-top: 20px; font-weight:80px;height:110px;
     padding-bottom: 50px;
 }
